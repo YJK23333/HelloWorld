@@ -10,7 +10,7 @@ int main()
 }
 
 <<<<<<< HEAD
-//Written by Windows
+//Written by Windows but there is something written by Linux
 
 =======
 //Written by Linux(Ubuntu)
