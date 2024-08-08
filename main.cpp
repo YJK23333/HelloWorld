@@ -10,7 +10,11 @@ int main()
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 //Written the player of Windows
+=======
+//Written by Windows but there is something written by Linux
+>>>>>>> 30c8ba3a43f352bfd5a7335d4629151294cfb611
 
 =======
 //Written by Linux(Ubuntu)
